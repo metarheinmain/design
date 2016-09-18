@@ -8,6 +8,10 @@ CC-BY [mrmcd]
 * fonts used for posters: [Museo by exljibris](http://www.myfonts.com/fonts/exljbris/museo/#index)
 * font used in the ticket: [Mingray Mono by Rekord] (http://www.myfonts.com/fonts/rekord/mingray-mono/#index)
 
+## MRMCD2015
+### fonts
+* font used: [Viking Squad Condensed](http://www.dafont.com/de/viking-squad.font)
+
 ## MRMCD2014
 ### fonts
 * fonts used: DIN 1451 and DIN Schablonierschrift
