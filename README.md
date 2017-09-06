@@ -5,12 +5,12 @@ CC-BY [mrmcd]
 
 ## MRMCD2017
 ### fonts
-* font used for posters: Futura
+* font used for posters: Futura BT Medium
 * font used for the website: Glacial Indifference
 
 ## MRMCD2016
 ### fonts
-* fonts used for posters: [Museo by exljibris](http://www.myfonts.com/fonts/exljbris/museo/#index)
+* font used for posters: [Museo by exljibris](http://www.myfonts.com/fonts/exljbris/museo/#index)
 * font used in the ticket: [Mingray Mono by Rekord] (http://www.myfonts.com/fonts/rekord/mingray-mono/#index)
 
 ## MRMCD2015
