@@ -11,7 +11,7 @@ CC-BY [mrmcd]
 ## MRMCD2016
 ### fonts
 * font used for posters: [Museo by exljibris](http://www.myfonts.com/fonts/exljbris/museo/#index)
-* font used in the ticket: [Mingray Mono by Rekord] (http://www.myfonts.com/fonts/rekord/mingray-mono/#index)
+* font used in the ticket: [Mingray Mono by Rekord](http://www.myfonts.com/fonts/rekord/mingray-mono/#index)
 
 ## MRMCD2015
 ### fonts
