@@ -3,6 +3,14 @@
 ## license
 CC-BY [mrmcd]
 
+## MRMCD2019
+### fonts
+* font used for posters:  [Jura](https://fonts.google.com/specimen/Jura)
+
+## MRMCD2018
+### fonts
+* font used for posters:  [Food Truck Signage Regular by Hanoded](https://www.myfonts.com/fonts/hanoded/food-truck)
+
 ## MRMCD2017
 ### fonts
 * font used for posters: Futura BT Medium
