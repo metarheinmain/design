@@ -1,5 +1,8 @@
 # MRMCD 2025 Design Doku
 
+## Font
+Die Font sollte mit vereinzelten Ausnahmen bei Stickern [Inter](https://github.com/rsms/inter) Semibold / Bold sein.
+
 ## Design-Dateien
 
 Quelldateien der meisten Designs sind sofern möglich in den jeweiligen Ordnern zur Verfügung gestellt. Die jeweils notwendige Software zum Öffnen ist hierbei:
