@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="89mm"
+   height="59mm"
+   viewBox="0 0 89.000001 59"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mrmcd_schrift.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="mrmcd_schrift_weiß_85_55.tiff"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6450497"
+     inkscape:cx="162.91301"
+     inkscape:cy="134.34245"
+     inkscape:window-width="1728"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60.761017,-49.025143)">
+    <g
+       id="g1"
+       transform="matrix(0.70190673,0,0,0.70190673,29.185003,25.010514)">
+      <g
+         id="g6">
+        <g
+           id="g3"
+           transform="translate(-10.076203,0.58771276)">
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:10.5833px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.983"
+             x="116.89615"
+             y="65.49231"
+             id="text1"><tspan
+               sodipodi:role="line"
+               id="tspan1"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.983"
+               x="116.89615"
+               y="65.49231">MRMCD25</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20896"
+             id="rect3"
+             width="45.816036"
+             height="10"
+             x="67.987839"
+             y="-66.849136"
+             rx="0"
+             ry="0"
+             transform="scale(1,-1)" />
+        </g>
+        <g
+           id="g4"
+           transform="translate(-10.076203,-0.47469807)">
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:10.5833px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.983"
+             x="100.84492"
+             y="80.268997"
+             id="text2"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               style="stroke-width:1.983"
+               x="100.84492"
+               y="80.268997">VOLLE</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.989852"
+             id="rect3-4"
+             width="30.166937"
+             height="10.181344"
+             x="67.987839"
+             y="71.535149"
+             rx="0"
+             ry="0" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.989852"
+             id="rect3-4-3"
+             width="30.166937"
+             height="10.181344"
+             x="138.76721"
+             y="71.535149"
+             rx="0"
+             ry="0" />
+        </g>
+        <g
+           id="g5"
+           transform="translate(-10.0762,-0.91727304)">
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:10.5833px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.983"
+             x="67.86898"
+             y="94.516518"
+             id="text3"><tspan
+               sodipodi:role="line"
+               id="tspan3"
+               style="stroke-width:1.983"
+               x="67.86898"
+               y="94.516518">TRANSPARENZ</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.78645"
+             id="rect3-4-3-5"
+             width="19.042877"
+             height="10.181344"
+             x="149.89127"
+             y="85.782669"
+             rx="0"
+             ry="0" />
+        </g>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79445"
+           id="rect3-3"
+           width="100.93934"
+           height="10"
+           x="57.911636"
+           y="-53.813248"
+           rx="0"
+           ry="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79445"
+           id="rect3-3-1"
+           width="100.93934"
+           height="10"
+           x="57.911636"
+           y="-108.67034"
+           rx="0"
+           ry="0"
+           transform="scale(1,-1)" />
+      </g>
+    </g>
+  </g>
+</svg>
